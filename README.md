@@ -20,10 +20,6 @@ O sistema captura o produto selecionado, separa nome e valor unitário, calcula 
 - CSS3
 - JavaScript (DOM manipulation)
 
-## 📸 Demonstração
-
-*(adicione aqui um print do projeto)*
-
 ## ✨ Autor
 
 Desenvolvido por Isabella Gilioli 🚀
